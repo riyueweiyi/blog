@@ -74,11 +74,17 @@
   // o不具备任何属性和方法
 ```
 
-## 3. 解构赋值
+## 3. 对象解构赋值
 
 > 使用ES6可以从数组和对象中提取值，对变量进行解构赋值。如果解构不成功，变量的值就等于undefined
 
-从数组中解构赋值
+数组是一个对象, 所以可以从数组中解构赋值。
+
+```
+  Array.prototype.__proto__ === Object.prototype
+  // true
+```
+
 ```
   const [first] = [1, 2, 3, 4] // 取第一个元素
   
@@ -142,7 +148,7 @@ const [a, b, c = 3] = [1, 2]
   firstMessage // {id: 1, name: '第一条消息'}
 ```
 
-解构赋值也可以用于函数
+解构赋值也可以用于函数，函数也是一个对象(所有的函数对象是被 Function 这个函数对象构造出来的)
 
 ```
   function logArr([first, ...tail], ...otherArgs) {
@@ -157,6 +163,8 @@ const [a, b, c = 3] = [1, 2]
 ```
 
 解构赋值用于其他类型
+
+拥有包装对象的类型Number, String, Boolean都可以解构赋值，null和undefined没有包装对象，无法解构赋值
 
 Number类型
 ```
@@ -191,6 +199,8 @@ Array类型
   first // 1
   len // 3
 ```
+
+总结： js真是万物皆对象
 
 
 
