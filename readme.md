@@ -11,3 +11,4 @@
 - [【mobx篇】Mobx入口分析（二）](https://github.com/riyueweiyi/blog/issues/8)
 - [【mobx篇】解读 ObservableValue 类型](https://github.com/riyueweiyi/blog/issues/9)
 - [【mobx篇】解读 ObservableObjectAdministration 类型](https://github.com/riyueweiyi/blog/issues/10)
+- [【mobx篇】Mobx入口分析（三）](https://github.com/riyueweiyi/blog/issues/11)
