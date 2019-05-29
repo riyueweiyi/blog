@@ -12,3 +12,4 @@
 - [【mobx篇】解读 ObservableObjectAdministration 类型](https://github.com/riyueweiyi/blog/issues/10)
 - [【mobx篇】Mobx入口分析（三）](https://github.com/riyueweiyi/blog/issues/11)
 - [【mobx篇】解读 Atom 对象 ](https://github.com/riyueweiyi/blog/issues/12)
+- [【mobx篇】事务处理 transaction ](https://github.com/riyueweiyi/blog/issues/13)
