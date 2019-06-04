@@ -18,3 +18,4 @@
 - [【mobx篇】事务处理 transaction](https://github.com/riyueweiyi/blog/issues/13)
 - [【mobx篇】解读 ObservableSet 类型](https://github.com/riyueweiyi/blog/issues/14)
 - [【mobx篇】解读 ObservableMap 类型](https://github.com/riyueweiyi/blog/issues/15)
+- [【mobx篇】解读 ObservableArray 类型](https://github.com/riyueweiyi/blog/issues/16)
