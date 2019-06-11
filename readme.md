@@ -19,3 +19,4 @@
 - [【mobx篇】解读 ObservableSet 类型](https://github.com/riyueweiyi/blog/issues/14)
 - [【mobx篇】解读 ObservableMap 类型](https://github.com/riyueweiyi/blog/issues/15)
 - [【mobx篇】解读 ObservableArray 类型](https://github.com/riyueweiyi/blog/issues/16)
+- [【mobx篇】解读观察者 autorun](https://github.com/riyueweiyi/blog/issues/17)
