@@ -21,3 +21,4 @@
 - [【mobx篇】解读 ObservableArray 类型](https://github.com/riyueweiyi/blog/issues/16)
 - [【mobx篇】解读观察者 autorun](https://github.com/riyueweiyi/blog/issues/17)
 - [【mobx篇】揭秘 action](https://github.com/riyueweiyi/blog/issues/18)
+- [【mobx篇】计算属性 computed](https://github.com/riyueweiyi/blog/issues/19)
